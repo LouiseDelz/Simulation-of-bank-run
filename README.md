@@ -44,4 +44,4 @@ git pull
 it will keep your folder up to date in case someone have modified somes files
 
 special thanks to the amazing **Angelo Charry** for teaching me everything that I know. 
-Don't forget to follow his github : [![](https://avatars.githubusercontent.com/u/38404747?s=460&u=be4a2d97451e8f1bf5fab5af80dd8bef8ce6f7bb&v=4 size=50)](https://github.com/TheLordOfLambs)
+Don't forget to follow his github : [![](https://avatars.githubusercontent.com/u/38404747?s=460&u=be4a2d97451e8f1bf5fab5af80dd8bef8ce6f7bb&v=4)](https://github.com/TheLordOfLambs)
